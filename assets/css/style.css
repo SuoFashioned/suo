@@ -1295,6 +1295,7 @@ section {
   color: #000000;
   font-size: 14px;
   text-align: center;
+  z-index: 1;
 }
 
 #footer .credits {
